@@ -15,13 +15,19 @@ class LouieIpsum(GenericIpsum):
             "Force equals mass times acceleration",
             "It's not against the rules to take drugs, it's against the rules to get caught takin' drugs",
             "Bands and chains provide accommodating resistance",
+            "The maximum effort method recruits the most muscle units",
+            "You can only strain so long to make a lift",
+            "Normal people only give you normal results",
         ],
         [
             "We use equipment, just like a baseball player uses a bat",
             "You rotate the special exercises, week 1 is a [special_exercise], then [special_exercise], then [special_exercise], [special_exercise]",
             "It's like writing your name, once you learn how to spell it you can only spell it wrong",
             "People go to the Shaolin Temple, Shaolin Temple don't go to them",
-            "We use [300-700] pounds of straight weight and [200-300] pounds of ['chains','band tension']"
+            "We use [300-700] pounds of straight weight and [200-300] pounds of ['chains','band tension']",
+            "It's about speed strength, as well as strength speed",
+            "When I go to war, I go to kill, not to get killed",
+
         ],
         [
             "That's why we got over 140 world records",
