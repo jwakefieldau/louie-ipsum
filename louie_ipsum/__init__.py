@@ -1,1 +1,1 @@
-from .louie import LouieIpsum
+from .louie_ipsum import LouieIpsum
