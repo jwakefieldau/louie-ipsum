@@ -8,8 +8,4 @@ setuptools.setup(
     description="If you have to ask...",
     url="https://github.com/jwakefieldau/louie-ipsum",
     packages=setuptools.find_packages(),
-    #TODO - figure out why this searches pypi instead
-    #install_requires = [
-    #    'generic_ipsum @ git+https://github.com/jwakefieldau/generic-ipsum#egg=generic_ipsum',
-    #]
 )
