@@ -10,7 +10,7 @@ class LouieIpsum(GenericIpsum):
             "These fuckin' geeks ain't never done a [main_lift] in their life and they wanna tell me about gettin stronger",
         ],
         [
-            "You know the Russians, they've been doing this since the 1950s",
+            "You know the Russians, like [russian_scientist] they've been doing this since the 1950s",
             "If you got weak [muscle_group], you can't do a [main_lift], that's a basic fact of physics",
             "Force equals mass times acceleration",
             "It's not against the rules to take drugs, it's against the rules to get caught takin' drugs",
@@ -49,6 +49,10 @@ class LouieIpsum(GenericIpsum):
             'Amy Weisberger',
             'Jason Coker',
             'Dave Hoff',
+        ],
+        'russian_scientist': [
+            'Vershansky',
+            'Zatsikorsky',
         ],
         'main_lift': ['squat', 'bench', 'deadlift'],
         'special_exercise': [
