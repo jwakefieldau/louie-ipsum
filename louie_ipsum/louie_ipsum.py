@@ -4,9 +4,9 @@ class LouieIpsum(GenericIpsum):
 
     fragments = [
         [
-            "We got [westside_lifter] to a [700-1000] pound [main_lift] with [4-8] weeks of ['max','dynamic'] effort [special_exercise]",
-            "I broke my ['lower back','patella','forearm'] in [1971-2008] on a max effort [special_exercise]",
-            "I spoke to [famous_lifter] at ['USPF','AAU','APF','SPF'] Senior Nationals, and he told me",
+            "We got [westside_lifter] to a [700-1000] pound [main_lift] with [4-8] weeks of [conjugate_effort] effort [special_exercise]",
+            "I broke my [injury_site] in [1971-2008] on a max effort [special_exercise]",
+            "I spoke to [famous_lifter] at [federation] Senior Nationals, and he told me",
             "These fuckin' geeks ain't never done a [main_lift] in their life and they wanna tell me about gettin stronger",
         ],
         [
@@ -84,4 +84,12 @@ class LouieIpsum(GenericIpsum):
             'pecs',
             'abdominals',
         ], 
+        'conjugate_effort': ['max', 'dynamic'],
+        'injury_site': ['lower back', 'patella', 'forearm'],
+        'federation': [
+            'USPF',
+            'APF',
+            'AAU',
+            'SPF',
+        ]
     }    
