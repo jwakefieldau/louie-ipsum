@@ -24,7 +24,7 @@ class LouieIpsum(GenericIpsum):
             "You rotate the special exercises, week 1 is a [special_exercise], then [special_exercise], then [special_exercise], [special_exercise]",
             "It's like writing your name, once you learn how to spell it you can only spell it wrong",
             "People go to the Shaolin Temple, Shaolin Temple don't go to them",
-            "We use [300-700] pounds of straight weight and [200-300] pounds of ['chains','band tension']",
+            "We use [300-700] pounds of straight weight and [200-300] pounds of [accommodating_resistance]",
             "It's about speed strength, as well as strength speed",
             "When I go to war, I go to kill, not to get killed",
 
@@ -91,5 +91,6 @@ class LouieIpsum(GenericIpsum):
             'APF',
             'AAU',
             'SPF',
-        ]
+        ],
+        'accommodating_resistance': ['chains', 'band tension'],
     }    
